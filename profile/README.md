@@ -1,12 +1,12 @@
-## Hi there 👋
+This project is a simple link shortener that can generate random and unique short URLs. It includes additional features such as an automatic reporting system, filtering of links containing viruses or other malware, and modular project structure.
 
-<!--
+📦 Tech Stack
 
-**Here are some ideas to get you started:**
+- **Frontend**: React, Tailwind CSS, Preline
+- **Backend**: Node.js (Express.js REST API)
+- **Database**: PostgreSQL
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+📚 Documentation
+
+- [Frontend](https://github.com/SoLink-Project/Frontend)
+- [Backend](https://github.com/SoLink-Project/Backend)
